@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jcorn2/library-website-mock-server#readme",
   "dependencies": {
+    "faker": "^4.1.0",
     "json-schema-faker": "^0.5.0-rcv.24",
     "json-server": "^0.16.1"
   }
